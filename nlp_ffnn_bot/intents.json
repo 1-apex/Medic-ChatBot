@@ -1,0 +1,137 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "pattern": [
+        "Hi",
+        "Hello",
+        "How are you?",
+        "Is anyone there?",
+        "Good Day",
+        "Hey",
+        "Greetings",
+        "Hi, how can I assist you?",
+        "What's up?",
+        "Hiya!"
+      ],
+      "responses": [
+        "Hey!!",
+        "Hi there, how can I help you?",
+        "Hello! How can I assist you today?",
+        "Hi, nice to see you! How can I assist you?",
+        "Greetings! What can I do for you?",
+        "Hey, how's it going?",
+        "Hello! How may I help you today?",
+        "Hi! How can I assist you?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "pattern": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Take care",
+        "Have a good one",
+        "Farewell",
+        "Catch you later",
+        "Until next time",
+        "Adios",
+        "So long"
+      ],
+      "responses": [
+        "See you later, thanks for visiting!",
+        "Have a nice day!",
+        "Bye! Come back again soon :)",
+        "Take care!",
+        "Goodbye! Have a great day!",
+        "Farewell! See you soon.",
+        "Catch you later! Have a good one.",
+        "Until next time! Take care.",
+        "Adios! See you later.",
+        "So long! Take care."
+      ]
+    },
+    {
+      "tag": "medication_info",
+      "pattern": [
+        "What is [medicine name] used for?",
+        "Tell me about [medicine name]",
+        "Side effects of [medicine name]",
+        "How does [medicine name] work?",
+        "Dosage of [medicine name]",
+        "Any precautions for [medicine name]?",
+        "Interactions with [medicine name]",
+        "Is [medicine name] safe?",
+        "Can [medicine name] be taken with food?",
+        "What are the benefits of [medicine name]?"
+      ],
+      "responses": [
+        "Sure, let me find information about [medicine name] for you.",
+        "Let me fetch some information about [medicine name] for you.",
+        "I can help with that. Just a moment while I look up details about [medicine name].",
+        "Here's some information about [medicine name].",
+        "Let me provide you with details about [medicine name].",
+        "Sure, I'll find out more about [medicine name].",
+        "I'm here to help. Let me gather information about [medicine name].",
+        "Let me check the details about [medicine name] for you.",
+        "I'll find out everything you need to know about [medicine name].",
+        "Sure, I'll provide you with information about the benefits of [medicine name]."
+      ]
+    },
+    {
+      "tag": "symptom_advice",
+      "pattern": [
+        "I'm not feeling well",
+        "I have a headache",
+        "My stomach hurts",
+        "I feel dizzy",
+        "I'm feeling nauseous",
+        "I have a fever",
+        "My throat is sore",
+        "I'm coughing a lot",
+        "I have a runny nose",
+        "I'm feeling tired"
+      ],
+      "responses": [
+        "I'm sorry to hear that. Can you provide more details about your symptoms?",
+        "It sounds like you're experiencing discomfort. Please describe your symptoms in more detail.",
+        "Let's see how I can help. Could you describe your symptoms for me?",
+        "I'm sorry to hear that. Let me see what advice I can offer.",
+        "It's important to take care of yourself. What specific symptoms are you experiencing?",
+        "I'm here to assist you. Please tell me more about your symptoms.",
+        "Let me provide some guidance based on your symptoms. Please describe them in detail.",
+        "I'm sorry to hear that. Let's see if we can find a solution. Please describe your symptoms.",
+        "I'm here to help you feel better. Please provide more details about your symptoms.",
+        "I'm sorry to hear you're not feeling well. Can you tell me more about your symptoms?"
+      ]
+    },
+    {
+      "tag": "general_inquiry",
+      "pattern": [
+        "What is the flu?",
+        "How can I prevent a cold?",
+        "What is the difference between a virus and a bacteria?",
+        "How does the immune system work?",
+        "What causes allergies?",
+        "How do vaccines work?",
+        "What is diabetes?",
+        "How can I improve my sleep quality?",
+        "What are the benefits of exercise?",
+        "How does stress affect health?"
+      ],
+      "responses": [
+        "That's an interesting question. Let me provide you with some information.",
+        "Sure, I can help with that. Let me find the answer for you.",
+        "Let me assist you with that query. Please wait a moment.",
+        "I'll find out more about that topic for you.",
+        "Let me provide you with some insights into that topic.",
+        "Sure, I can explain that concept to you.",
+        "I'll find out more about that and get back to you.",
+        "Here's some information about that topic.",
+        "Let me check my resources for more information.",
+        "I'm here to help. Let me find the information you need."
+      ]
+    }
+  ]
+}

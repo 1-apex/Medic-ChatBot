@@ -1,0 +1,28 @@
+crocin is a carotenoid chemical compound that is found in the flowers of crocus and gardenia. its oxygen content also chemically makes it a xanthene. crocin is the chemical primarily responsible for the color of saffron.
+
+chemically, crocin is the diester formed from the disaccharide gentiobiose and the dicarboxylic acid crocetin. when isolated as a pure chemical compound, it has a deep red color and forms crystals with a melting point of 186â â°c. when dissolved in water, it forms an orange solution.
+
+the term crocins may also refer to members of a series of related hydrophilic carotenoids that are either monoglycosyl or diglycosyl polyene esters of crocetin. the crocin underlying saffron's aroma is î±-crocin (a carotenoid pigment that may compose more than 10% of dry saffron's mass): trans-crocetin di-(î²-d-gentiobiosyl) ester; it bears the systematic (iupac) name 8,8-diapo-8,8-carotenoic acid.:â€š20â€š
+
+the major active component of saffron is the yellow pigment crocin 2 (three other derivatives with different glycosylations are known) containing a gentiobiose (disaccharide) group at each end of the molecule. the five major biologically active components of saffron, namely the four crocins and crocetin, can be measured with hplc-uv.
+
+crocin ingested orally is hydrolised to crocetin in the gut which is absorbed across the intestinal barrier, and that crocetin can permeate the bloodâ€“brain barrier.
+
+crocin has been shown to be an antioxidant, and neural protective agent. crocin can reduce oxidative stress and ros (reactive oxygen species) through enhancement of gene expression of nrf2, ho-1, and anti-oxidant enzymes, such as cat, gsh, and sod.
+
+crocin and its derivative crocetin may counteract oxidative stress, mitochondrial dysfunction and neuroinflammation, which are closely linked to initiation and progression of major brain pathologies such as alzheimer's and parkinson's disease.
+
+in an animal model of malathion-induced parkinson's disease, crocin reduced the neurotoxic effect of malathion by its anti-apoptotic activity and  it regulated the expression of proteins involved in parkinson's disease pathogenesis.
+
+crocins can suppress the active forms of gsk3î² and erk1/2 kinases,  significantly reducing  tau phosphorylation, thus suppressing key molecular pathways of alzheimer's disease pathogenesis.
+
+crocin displays possible antidepressant properties in mice and humans.
+
+crocin has also shown antiproliferative action against cancer cells in vitro.  and  in vivo .
+
+crocin through the pi3k/akt/mtor, mapk, vegf, wnt/î²-catenin, and jak-stat suppression has antiproliferative properties. also, the nrf2 and p53 signaling pathway activation may be effective in the antiproliferative effect of crocin.
+
+aphrodisiac properties of crocin in male rats has been observed at very high doses.
+
+emerging evidence highlights the cytoprotective, antioxidative, and anti-inflammatory potential of crocin in retinal tissue, which positions it as a promising candidate for enhancing vision and eye health. nevertheless, it's important to note that the majority of research has primarily focused on animal models, and there remains a shortage of robust clinical data to firmly establish the benefits of crocin in addressing eye health and related diseases.
+
