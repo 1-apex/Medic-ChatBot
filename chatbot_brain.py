@@ -14,7 +14,7 @@ warnings.filterwarnings('ignore')
 medicine_list = ["crocin", "ibuprofen", "paracetamol", "aspirin", "amoxicillin", "benadryl", "loratadine"]
 medicine_pattern = r'\b(?:' + '|'.join(map(re.escape, medicine_list)) + r')\b'
 
-med_data = ["crocin"]
+med_data = []
 
 
 def create_rnn_model(vocab_size, max_sequence_length, num_classes):
@@ -47,11 +47,14 @@ def brain_response(user_response):
             for word in keyword:
                 scrape_wiki(word)
             med_data.append(match)
-            flag = 0
-            return "------ New Data has been added to model!! --------"
 
-    if not flag:
-        return
+            with open('data.txt', 'r') as f:
+                data = f.read()
+
+            return data
+        else:
+            bot_response += "sampla vishay"
+
 
     # Read and preprocess data
     padded_sequences, word_index, encoded_text = read_file()
@@ -66,10 +69,7 @@ def brain_response(user_response):
     rnn_model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
     # Print the summary of the model
-    rnn_model.summary()
+    # rnn_model.summary()
 
     # return bot_response
     return bot_response
-
-
-brain_response("tell me about crocin")

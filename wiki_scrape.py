@@ -15,4 +15,5 @@ def scrape_wiki(keyword):
             for para in para_tags:
                 f.write(para.text + '\n')
 
+# testing the scraper
 # scrape_wiki('crocin')
